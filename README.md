@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🎓 I’m a final year Data Science student at SLIIT, Colombo, Sri Lanka  
+- 🔭 I’m currently working on several new projects in data science and machine learning  
+- 🌱 I’m currently learning advanced Python and exploring new libraries and tools  
+- 🤔 I’m looking for collaboration and feedback on my open-source projects  
 <!--
 **Zahem-Saldin/Zahem-Saldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
