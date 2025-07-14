@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 I’m a final year Data Science student at SLIIT, Colombo, Sri Lanka  
+- 🎓 I’m a final year Data Science student at SLIIT
 - 🔭 I’m currently working on several new projects in data science and machine learning  
 - 🌱 I’m currently learning advanced Python and exploring new libraries and tools  
 - 🤔 I’m looking for collaboration and feedback on my open-source projects  
