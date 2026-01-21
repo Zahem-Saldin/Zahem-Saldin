@@ -17,5 +17,14 @@
 [![Data Analysis with Python](https://img.shields.io)](https://freecodecamp.org)
 [![Machine Learning with Python](https://img.shields.io)](https://freecodecamp.org)
 
+## ☁️ Cloud Certifications
+
+<a href="https://github.com/Zahem-Saldin/Github-Certifications/blob/main/AWS%20-%20Cloud%20Foundations.jpeg" target="_blank">
+  <img src="https://github.com" width="300" alt="AWS Cloud Foundations Certificate">
+</a>
+
+*Click the image to view full certificate*
+
+
 
 
