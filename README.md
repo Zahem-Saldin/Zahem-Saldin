@@ -8,8 +8,14 @@
 
 ## 🏆 Certifications
 
-[![GitHub Foundations](https://img.shields.io)](URL_TO_YOUR_CERTIFICATE)
-[![AWS Cloud Practitioner](https://img.shields.io)](URL_TO_YOUR_CERTIFICATE)
-[![Azure Fundamentals](https://img.shields.io)](URL_TO_YOUR_CERTIFICATE)
+### ☁️ Cloud & Data Engineering
+[![AWS Cloud Practitioner](https://img.shields.io)](https://www.credly.com)
+[![Data Modeling for Power BI](https://img.shields.io)](https://certificationcompletion.blob.core.windows.net)
+
+### 🐍 Python & AI (freeCodeCamp)
+[![Scientific Computing with Python](https://img.shields.io)](https://freecodecamp.org)
+[![Data Analysis with Python](https://img.shields.io)](https://freecodecamp.org)
+[![Machine Learning with Python](https://img.shields.io)](https://freecodecamp.org)
+
 
 
