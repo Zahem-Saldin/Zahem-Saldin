@@ -1,13 +1,15 @@
 # Hi there 👋 I'm Zahem Saldin
 
-**Final-Year Data Science Student @ SLIIT** *Specializing in Machine Learning, Data Engineering, and Scalable AI Solutions.*
+**Final-Year Data Science Student @ SLIIT | Full-Stack AI & Mobile Developer**
+*Specializing in Machine Learning, Scalable Data Engineering, and Cross-Platform AI Solutions.*
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Final-year BSc in IT (Data Science) at SLIIT (Expected Oct 2026).
-- 🔬 **Currently Researching:** AI-Driven Multi-Crop Productivity Monitoring using Sentinel-2 satellite imagery and CNNs.
-- 🏗️ **Building:** End-to-end ML pipelines, NLP applications, and Dockerized cloud solutions.
+- 🎓 **Education:** Final-year BSc in IT (Data Science) @ SLIIT (Expected Oct 2026).
+- 🔬 **Current Research:** AI-Driven Multi-Crop Productivity Monitoring using Sentinel-2 satellite imagery and CNNs.
+- 🏗️ **Building:** End-to-end ML pipelines, Dockerized cloud solutions, and AI-integrated mobile applications.
+- 💼 **Freelancing:** Currently taking on freelance projects focused on bridging the gap between Data Science and user-ready applications.
 - 🌍 **Location:** Colombo, Sri Lanka
 
 ---
@@ -70,6 +72,9 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/zahem-saldin-6ab509348/)
+- 📧 [Email](mailto:zahemsaldin@hotmail.com)
+- 🌐 [Main GitHub](https://github.com/Zahem-Saldin) | [University Portfolio](https://github.com/IT21802744)
 
-[LinkedIn](https://www.linkedin.com/in/zahem-saldin-6ab509348/) | [Main GitHub](https://github.com/Zahem-Saldin) | [University Portfolio](https://github.com/IT21802744) | [Email](mailto:zahemsaldin@hotmail.com)
+ 
