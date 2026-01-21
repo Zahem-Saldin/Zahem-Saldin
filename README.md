@@ -6,4 +6,10 @@
 - 🤝 Open to collaboration and feedback on my open-source projects  
 - 📂 Check out my university project repository: [github.com/IT21802744](https://github.com/IT21802744)
 
+## 🏆 Certifications
+
+[![GitHub Foundations](https://img.shields.io)](URL_TO_YOUR_CERTIFICATE)
+[![AWS Cloud Practitioner](https://img.shields.io)](URL_TO_YOUR_CERTIFICATE)
+[![Azure Fundamentals](https://img.shields.io)](URL_TO_YOUR_CERTIFICATE)
+
 
