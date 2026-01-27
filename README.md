@@ -20,9 +20,9 @@
 | :--- | :--- |
 | **Languages** | Python, R, Java, C++, JavaScript, SQL |
 | **ML & AI** | TensorFlow, PyTorch, Scikit-learn, Transformers (BART), NLTK, Gensim, CNNs |
-| **Data & BI** | Power BI, Pandas, Matplotlib, Spark, Hadoop, MongoDB, MySQL |
+| **Data & BI** | Power BI, Pandas, Matplotlib, Spark, Hadoop, MongoDB, MySQL, Firebase |
 | **Cloud & DevOps** | AWS, GCP, Azure, Docker, Kubernetes, Grafana, Prometheus, Git |
-| **Web/Mobile/Backend** | FastAPI, React, React Native, Node.js, Flask, Spring Boot |
+| **Web / Mobile / Backend** | FastAPI, React, React Native, Node.js, Flask, Spring Boot, Flutter |
 
 ---
 
