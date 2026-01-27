@@ -33,6 +33,11 @@
 - Developed a **soft-label classification model** for phenological transitions.
 - Built an interactive visualization platform using **FastAPI & React**.
 
+### 🌡️ [Celsius X](https://github.com/Zahem-Saldin/Celcius-X)
+- Predictive IoT ecosystem forecasting overheating risks 30 minutes in advance using Scikit-Learn regression models.
+- Full-stack integration featuring an ESP32 edge layer, FastAPI ML backend, and a real-time Flutter dashboard.
+- Automated safety protocols via SMTP alerting and multi-state LED logic for immediate environmental feedback.
+
 #### 📝 [Advanced NLP Text Summarizer](https://github.com/Zahem-Saldin/Insight_Summarizer)
 *Intelligent summarization tool with integrated linguistic analysis.*
 - Utilized **pretrained BART models** for abstractive summarization with customizable lengths.
@@ -43,10 +48,6 @@
 *Full-stack application deployed on GCP.*
 - Integrated **Prometheus and Grafana** for real-time metrics and BI alerts.
 - Utilized **MongoDB** and **FastAPI** for a scalable, containerized backend.
-
-#### 📈 [Blockchain Price Predictor](https://github.com/Zahem-Saldin/Crypto_Price_Forecast)
-- Time-series analysis achieving **80% accuracy** using Neural Networks and Naive Bayes.
-- Optimized training via **GPU acceleration (WSL2/Ubuntu)**.
 
 ---
 
