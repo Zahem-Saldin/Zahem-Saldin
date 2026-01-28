@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Final-year BSc in IT (Data Science) @ SLIIT (Expected Oct 2026).
+- 🎓 **Education:** BSc in IT (Data Science) @ SLIIT (Expected Oct 2026).
 - 🔬 **Current Research:** AI-Driven Multi-Crop Productivity Monitoring using Sentinel-2 satellite imagery and CNNs.
 - 🏗️ **Building:** End-to-end ML pipelines, Dockerized cloud solutions, and AI-integrated mobile applications.
 - 💼 **Freelancing:** Currently taking on freelance projects focused on bridging the gap between Data Science and user-ready applications.
