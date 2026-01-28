@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zahem Saldin
 
-**Final-Year Data Science Student @ SLIIT | Full-Stack AI & Mobile Developer**
+**Studied @ SLIIT | Full-Stack AI & Mobile Developer**
 *Specializing in Machine Learning, Scalable Data Engineering, and Cross-Platform AI Solutions.*
 
 ---
